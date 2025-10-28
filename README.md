@@ -1,4 +1,4 @@
-# Clematis Diversification Analysis in China
+# _Clematis_ Diversification Analysis in China
 
 This repository contains the datasets and scripts used in the study:  
 **Zhang et al. (2025) "From Miocene radiation to spatial mismatch: Environmental and trait influences on _Clematis_ diversification across China"**.
