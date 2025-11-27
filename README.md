@@ -26,4 +26,4 @@ The project focuses on analyzing the diversification patterns of _Clematis_ plan
 
 ## Citation
 If you use any data or code from this repository, please cite:  
-Zhang et al. (2025) "From Miocene radiation to spatial mismatch: Environmental and trait influences on Clematis diversification across China".
+Zhang et al. (2025) "Spatial mismatch between species richness and diversification rates of _Clematis_ in China: Environmental and trait drivers".
