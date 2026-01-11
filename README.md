@@ -1,9 +1,9 @@
 # _Clematis_ Diversification Analysis in China
 
 This repository contains the datasets and scripts used in the study:  
-**Zhang et al. (2025) "From Miocene radiation to spatial mismatch: Environmental and trait influences on _Clematis_ diversification across China"**.
+**Zhang et al. (2026) "Environmental regimes and intrinsic traits drove the spatial mismatch between species richness and diversification rates of _Clematis_ in China"**.
 
-The project focuses on analyzing the diversification patterns of _Clematis_ plants across China, incorporating environmental and trait data to understand evolutionary dynamics.
+The project focuses on analyzing the spatial mismatch between species richness and diversification rates of _Clematis_ in China, incorporating environmental and trait data to understand its underlying drivers.
 
 ## Datasets
 
@@ -26,4 +26,4 @@ The project focuses on analyzing the diversification patterns of _Clematis_ plan
 
 ## Citation
 If you use any data or code from this repository, please cite:  
-Zhang et al. (2025) "Spatial mismatch between species richness and diversification rates of _Clematis_ in China: Environmental and trait drivers".
+Zhang et al. (2026) "Environmental regimes and intrinsic traits drove the spatial mismatch between species richness and diversification rates of _Clematis_ in China".
