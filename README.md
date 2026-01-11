@@ -11,7 +11,7 @@ The project focuses on analyzing the spatial mismatch between species richness a
    Includes 100 phylogenetic trees generated from TACT (Tree Analysis with Continuous Traits) simulations. These trees were used for diversification analyses in the study, representing uncertainty in tree topology and branch lengths.
 
 + **Distribution Data**
-   Geographic distribution records for Clematis species across China. It includes location coordinates, environmental variables, and trait data used to assess spatial and ecological influences on diversification.
+   Geographic distribution records for Clematis species across China. It includes location coordinates, environmental variables used to assess spatial and ecological influences on diversification.
 
 ## Scripts
 
