@@ -1,4 +1,4 @@
-# _Clematis_ Diversification Analysis in China
+# Spatial mismatch between species richness and diversification rates of _Clematis_ in China
 
 This repository contains the datasets and scripts used in the study:  
 **Zhang et al. (2026) "Environmental regimes and intrinsic traits drove the spatial mismatch between species richness and diversification rates of _Clematis_ in China"**.
